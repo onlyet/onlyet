@@ -14,10 +14,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=那好啊他过江我也过江!&center=true&font=Roboto&size=27" />
-</div>
-
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=27&pause=1000&color=EE674D&center=true&width=435&lines=%E9%82%A3%E5%A5%BD%E5%95%8A%E4%BB%96%E8%BF%87%E6%B1%9F%E6%88%91%E4%B9%9F%E8%BF%87%E6%B1%9F!" alt="Typing SVG" /></a>
 </div>
 
