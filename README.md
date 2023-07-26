@@ -22,4 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyet&langs_count=2&line_height=65&size_weight=0.5&count_weight=0.5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Most Used Languages">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=onlyet" alt="icon">
+</p>
 
