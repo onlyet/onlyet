@@ -1,20 +1,7 @@
 <h2 align="center">Hi 👋 Welcome to My Homepage!</h2>
 
 <div align="center">
-  <span>
-    <a href="https://blog.csdn.net/ET_Endeavoring">
-      <img src="https://blog.csdn.net/favicon.ico" alt="CSDN" width="32" height="32">
-    </a>
-  </span>
-  <span>
-    <a href="https://space.bilibili.com/16030836">
-      <img src="https://www.bilibili.com/favicon.ico" alt="bilibili" width="32" height="32">
-    </a>
-  </span>
-</div>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=27&pause=1000&color=EE674D&center=true&width=435&lines=%E9%82%A3%E5%A5%BD%E5%95%8A%E4%BB%96%E8%BF%87%E6%B1%9F%E6%88%91%E4%B9%9F%E8%BF%87%E6%B1%9F!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=27&pause=1000&color=EE674D&center=true&width=435&lines=咱家说了，不怕酸！" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
